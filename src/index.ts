@@ -1,4 +1,4 @@
-import {addition,substraction,multiplication,division} from './calculator';
+import {addition,substraction,multiplication,division} from './function';
 
 
 console.log(addition(2,3));
